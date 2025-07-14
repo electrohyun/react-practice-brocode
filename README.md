@@ -1,10 +1,16 @@
 # 👋 소개
 
-<hr>
+
 
 YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리입니다.
 
 링크: https://youtu.be/CgkZ7MvWUAA
+
+
+
+
+# ⚛️ 내용
+
 
 2. Card Components
 <div>
@@ -24,4 +30,13 @@ YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리�
   />
 </div>
 
+8. useState() hook
+
+<div>
+  <img
+    src="https://github.com/user-attachments/assets/464c5288-b2fb-4a43-b6fe-52d0a62c1610"
+    alt="image"
+    width="400"
+  />
+</div>
 
