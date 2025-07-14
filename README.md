@@ -21,6 +21,8 @@ YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리�
   />
 </div>
 
+<hr>
+
 6. Render Lists
 <div>
   <img
@@ -29,6 +31,8 @@ YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리�
     width="400"
   />
 </div>
+
+<hr>
 
 8. useState() hook
 
@@ -40,6 +44,8 @@ YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리�
   />
 </div>
 
+<hr>
+
 9. onChange event handler
 
 <div>
@@ -49,4 +55,18 @@ YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리�
     width="400"
   />
 </div>
+
+<hr>
+
+10. Color Picker App
+
+<div>
+  <img
+    src="https://github.com/user-attachments/assets/a173490a-5b2d-468a-ac5e-60b9ccf99704"
+    alt="A React Color Picker app that lets users select a color from an input. When the color is selected, the box and displayed text update to show the chosen color in real-time."
+    width="400"
+  />
+</div>
+
+<hr>
 
