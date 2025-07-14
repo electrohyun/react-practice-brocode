@@ -1,12 +1,16 @@
-# React + Vite
+# 👋 소개
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리입니다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+링크: https://youtu.be/CgkZ7MvWUAA
 
-## Expanding the ESLint configuration
+<div style={{ textAlign: "center" }}>
+  <img
+    src="https://github.com/user-attachments/assets/9c82b1b2-3ded-4c7b-87bd-3b43054e16a1"
+    alt="image"
+  />
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
