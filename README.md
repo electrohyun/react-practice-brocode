@@ -70,3 +70,15 @@ YouTube의 <React Full Course for Free (2024)> 강의 실습용 레포지토리�
 
 <hr>
 
+14. Update Array of objects in state
+
+<div>
+  <img
+    src="https://github.com/user-attachments/assets/2469f757-e445-45bf-84be-2bd36a60e61c"
+    alt="A React demo showing how a list of car objects is updated using form inputs and removed by clicking items."
+    width="400"
+  />
+</div>
+
+<hr>
+
